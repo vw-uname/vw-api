@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  text-align: center;
+}
+img{
+  width: 800px;
+}
+.line{
+  width: 100%;
+  height: 40px;
+  background-color: #1A415D;
+}
+.bot{
+  position: fixed;
+  bottom: 0;
+}
+h1{
+  font-size: 60px;
+}
+p{
+  font-size: 40px;
+}
+h1,p{
+  font-family: 'Open Sans', sans-serif;
+}
