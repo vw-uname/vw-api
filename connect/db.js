@@ -2,7 +2,7 @@ var mysql      = require('mysql');
 module.exports = () => {
   return mysql.createConnection({
     host     : 'localhost',
-    user     : 'root',
+    user     : 'api',
     password : '123',
     database : 'visibilidad'
   });
