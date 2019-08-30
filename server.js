@@ -21,7 +21,7 @@ app.get('/', function (req, res) {
   res.render('index')
 })
 
-app.listen(3000, function () {
+app.listen(3010, function () {
   console.log('Example app listening on port 3000!')
 })
 
